@@ -3,51 +3,120 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="stylesheet" href="styles.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ExploreConnect</title>
+
+    <!-- custom css link -->
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <!-- header starts here -->
     <header id="header" class="alt">
-      <h1><a href="index.html">Explore</a>Connect</h1>
+      <h1><a href="index.html">ExploreConnect</a></h1>
       <nav id="nav">
         <ul>
           <li><a href="index.html">Home</a></li>
-          <li><a href="index.html">About</a></li>
+          <li><a href="about.html">About</a></li>
           <li>
             <a href="#" class="icon solid fa-angle-down">Services</a>
-            
             <ul>
               <li><a href="travel.html">Travel</a></li>
               <li><a href="entertainment.html">Entertainment</a></li>
-            
-              
-              
             </ul>
-            <li><a href="index.html">Contact</a></li>
-
           </li>
-          
+          <li><a href="contact.html">Contact</a></li>
         </ul>
       </nav>
     </header>
+    <!-- header ends here -->
+
     <main>
+      <!-- homepage starts here -->
       <section class="homepage-section">
         <div class="homepage">
-          <button>
-            <h1 class="homepage-text">This Is The Home Page</h1>
-            <p class="homepage-text">
-              insert homepage text(Lorem ipsum dolor sit amet consectetur
-              adipisicing elit. Repellendus incidunt totam assumenda voluptate
-              id laborum libero esse quasi saepe odio hic harum, est omnis quia
-              repudiandae fugit animi tenetur quidem aliquam provident similique
-              nihil. Eligendi nesciunt, cupiditate nobis inventore voluptate
-              alias nostrum hic reiciendis delectus eaque iste mollitia sed
-              dolore.)
-            </p>
-          </button>
+          <h1 class="homepage-text">This Is The Home Page</h1>
+          <p class="homepage-text">
+            Insert homepage text (Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus incidunt totam assumenda voluptate id laborum libero esse quasi saepe odio hic harum, est omnis quia repudiandae fugit animi tenetur quidem aliquam provident similique nihil. Eligendi nesciunt, cupiditate nobis inventore voluptate alias nostrum hic reiciendis delectus eaque iste mollitia sed dolore.)
+          </p>
+          <button>Learn More</button>
         </div>
       </section>
+      <!-- homepage ends here -->
+
+      <!-- about us start -->
+      <section class="about-us-main" id="about">
+        <h1>About Us</h1>
+        <div class="about">
+          <br><br>
+          <div class="row">
+            <div class="content">
+              <span>Why Choose Us</span>
+              <h3>Push Your Limits Forward</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. </p>
+              <ul class="faq-list">
+                <li>
+                  <div class="question">
+                    <h4>Travel</h4>
+                    <span class="toggle-icon">+</span>
+                  </div>
+                  <div class="answer">
+                    <p>Information about travel services - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua.</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="question">
+                    <h4>Entertainment</h4>
+                    <span class="toggle-icon">+</span>
+                  </div>
+                  <div class="answer">
+                    <p>Information about entertainment services - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua.</p>
+                  </div>
+                </li>
+              </ul>
+              <br>
+              <a href="#" class="btn">Read More</a>
+            </div>
+            <div class="image">
+              <img src="images/homepagebackground.jpg" alt="">
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- about us end -->
+
+
+
+      <script>
+        // Get all question elements
+        const questions = document.querySelectorAll('.question');
+
+        // Add click event listener to each question
+        questions.forEach(question => {
+          question.addEventListener('click', () => {
+            // Toggle the answer visibility
+            const answer = question.nextElementSibling;
+            const toggleIcon = question.querySelector('.toggle-icon');
+            
+            if (answer.style.display === 'none' || answer.style.display === '') {
+              answer.style.display = 'block';
+              toggleIcon.textContent = '-';
+            } else {
+              answer.style.display = 'none';
+              toggleIcon.textContent = '+';
+            }
+          });
+        });
+      </script>
+
     </main>
+
+    <footer>
+      <!-- footer content here -->
+    </footer>
   </body>
 </html>
