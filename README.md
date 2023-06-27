@@ -33,12 +33,12 @@ Create a form wherein users can ask a query and submit it.
 
 ## Website information
 
-[PDF FILE]([Website-Report.pdf](https://github.com/Sadickachuli/html_css_contest_-group14-/files/11881835/Website-Report.pdf)
+[PDF FILE]([Website-Report.pdf](https://github.com/Sadickachuli/html_css_contest_-group14-/blob/1301a34071603e2c47dacfa48b83eddb39f4eeee/Website-Report.pdf)
 )
 
 ## Visit our website:
 
- [ExploreConnect](https://sadickachuli.github.io/html_css_contest_-group14-/)
+- [ExploreConnect](https://sadickachuli.github.io/html_css_contest_-group14-/)
 
 <h2 id="contributors">Contributors 👥</h2>  
 
@@ -51,7 +51,7 @@ Create a form wherein users can ask a query and submit it.
 
 <h2 id="acknowledgement">Acknowledgement 🙏</h2> 
 
-- 👏🏼 Special thanks to our instructor, [Mr. Wakuma Tekalign Debela] for reviewing our project and providing feedback when needed.
+- 👏🏼 Special thanks to our instructor Mr. Wakuma Tekalign Debela for reviewing our project and providing feedback when needed.
 - 👨‍🏫 We also want to acknowledge the BSE Faculty for challenging us to apply the frontend concepts we learned during the term to develop a project that showcases our skills and knowledge in the field.
 
 ----------
