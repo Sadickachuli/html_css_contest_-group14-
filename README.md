@@ -1,4 +1,4 @@
-website-background.JPG
+![website-background](https://github.com/Sadickachuli/html_css_contest_-group14-/assets/116743995/e5b44287-53d4-46c0-824c-b65ff7c50202)
 
 ## This is a teamwork assignment
 
