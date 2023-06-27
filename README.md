@@ -30,3 +30,29 @@ You can include a profile picture (optional)
 
 ## Contact us
 Create a form wherein users can ask a query and submit it.
+
+## Website information
+
+[PDF FILE]([Website-Report.pdf](https://github.com/Sadickachuli/html_css_contest_-group14-/files/11881835/Website-Report.pdf)
+)
+
+## Visit our website:
+
+ [ExploreConnect](https://sadickachuli.github.io/html_css_contest_-group14-/)
+
+<h2 id="contributors">Contributors 👥</h2>  
+
+- [Sadick Mustapha Achuli](https://github.com/Sadickachuli)
+- [Mohamed Ahmed Yasin](https://github.com/MohamedAYasin)
+- [Mary Doh](https://github.com/MaryNayram)
+- [Abdulhameed Teniola Ajani](https://github.com/Elhameed)
+- [Athanson Oluwasijibomi](https://github.com/Atsijibomi)
+- [Prisca Uwase](https://github.com/waseprisca0)
+
+<h2 id="acknowledgement">Acknowledgement 🙏</h2> 
+
+- 👏🏼 Special thanks to our instructor, [Mr. Wakuma Tekalign Debela] for reviewing our project and providing feedback when needed.
+- 👨‍🏫 We also want to acknowledge the BSE Faculty for challenging us to apply the frontend concepts we learned during the term to develop a project that showcases our skills and knowledge in the field.
+
+----------
+- If you found this website useful, please consider giving this repo a star ⭐️!
