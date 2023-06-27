@@ -1,4 +1,4 @@
-https://github.com/Sadickachuli/html_css_contest_-group14-/blob/b74073e6f8ced0f15df02cefd82eb2292ae70f7c/website-background.JPG
+website-background.JPG
 
 ## This is a teamwork assignment
 
