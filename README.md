@@ -39,8 +39,8 @@ Create a form wherein users can ask a query and submit it.
 
 - [Sadick Mustapha Achuli](https://github.com/Sadickachuli)
 - [Mohamed Ahmed Yasin](https://github.com/MohamedAYasin)
-- [Mary Doh](https://github.com/MaryNayram)
 - [Abdulhameed Teniola Ajani](https://github.com/Elhameed)
+- [Mary Doh](https://github.com/MaryNayram)
 - [Athanson Oluwasijibomi](https://github.com/Atsijibomi)
 - [Prisca Uwase](https://github.com/waseprisca0)
 
