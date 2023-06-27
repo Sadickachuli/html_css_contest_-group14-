@@ -31,11 +31,6 @@ You can include a profile picture (optional)
 ## Contact us
 Create a form wherein users can ask a query and submit it.
 
-## Website information
-
-[PDF FILE]([Website-Report.pdf](https://github.com/Sadickachuli/html_css_contest_-group14-/blob/1301a34071603e2c47dacfa48b83eddb39f4eeee/Website-Report.pdf)
-)
-
 ## Visit our website:
 
 - [ExploreConnect](https://sadickachuli.github.io/html_css_contest_-group14-/)
@@ -56,3 +51,4 @@ Create a form wherein users can ask a query and submit it.
 
 ----------
 - If you found this website useful, please consider giving this repo a star ⭐️!
+- Thank you 🙏
